@@ -1,0 +1,6 @@
+@dia_HostAddress = http://localhost:5076
+
+GET {{dia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
